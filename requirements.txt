@@ -1,0 +1,5 @@
+spotipy
+pandas
+requests
+matplotlib
+beautifulsoup4
