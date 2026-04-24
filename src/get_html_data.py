@@ -1,114 +1,162 @@
 import csv
+import re
 
 import requests
 from bs4 import BeautifulSoup
 
 
-URL_STRANI = "https://en.wikipedia.org/wiki/List_of_best-selling_music_artists"
-IZHODNA_DATOTEKA = "data/html_best_selling_artists.csv"
-GLAVE_ZAHTEVKA = {
+url = "https://ca.billboard.com/charts/billboard-canadian-hot-100"
+izhodna_dat = "data/html_billboard_hot_100.csv"
+glave = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept-Language": "en-US,en;q=0.9"
+    "Accept-Language": "en-US,en;q=0.9",
 }
 
 
-def pocisti_besedilo(besedilo):
-    """Vrne poenoteno besedilo brez odvecnih presledkov."""
-    return " ".join(besedilo.split())
+def pocisti_besedilo(bes):
+    """Vrne besedilo brez odvečnih presledkov."""
+    return " ".join(str(bes).split())
 
 
-def shrani_v_csv(vrstice, ime_datoteke):
-    """Vrne None in shrani seznam slovarjev v CSV datoteko."""
-    if not vrstice:
-        print("Ni podatkov za shranjevanje.")
+def shrani_csv(vrst):
+    """Shrani Billboard Canadian Hot 100 podatke v csv datoteko."""
+    if not vrst:
         return
 
-    imena_stolpcev = list(vrstice[0].keys())
+    ime_stolpcev = list(vrst[0].keys())
 
-    with open(ime_datoteke, "w", newline="", encoding="utf-8") as datoteka:
-        pisec = csv.DictWriter(datoteka, fieldnames=imena_stolpcev)
-        pisec.writeheader()
-        pisec.writerows(vrstice)
-
-
-def poisci_ciljne_tabele(juha):
-    """Vrne seznam HTML tabel, ki vsebujejo podatke o najbolje prodajanih izvajalcih."""
-    vse_tabele = juha.find_all("table", class_="wikitable")
-    ciljne_tabele = []
-
-    for tabela in vse_tabele:
-        celice_glave = tabela.find_all("th")
-        glave = [pocisti_besedilo(celica.get_text(" ", strip=True)).lower() for celica in celice_glave[:10]]
-        besedilo_glave = " ".join(glave)
-
-        if "artist" in besedilo_glave and "claimed sales" in besedilo_glave:
-            ciljne_tabele.append(tabela)
-
-    return ciljne_tabele
+    with open(izhodna_dat, "w", newline="", encoding="utf-8") as dat:
+        wr = csv.DictWriter(dat, fieldnames=ime_stolpcev)
+        wr.writeheader()
+        wr.writerows(vrst)
 
 
-def izloci_vrstice(tabela):
-    """Vrne seznam vrstic iz ene HTML tabele v obliki slovarjev."""
-    vrstice = []
-    vrstice_tabele = tabela.find_all("tr")
+def poisci_blok_lestvice(juha):
+    """Vrne glavni del HTML strani za branje Billboard podatkov."""
+    return juha
 
-    for vrstica in vrstice_tabele[1:]:
-        celice = vrstica.find_all(["th", "td"])
 
-        if len(celice) < 5:
+def vrstice_billboard(blok):
+    """Vrne seznam podatkov o pesmih z Billboard Canadian Hot 100."""
+    vrst = blok.get_text("\n", strip=True).splitlines()
+    vrst = [pocisti_besedilo(el) for el in vrst]
+    vrst = [el for el in vrst if el]
+
+    zacetek = None
+    konec = None
+
+    for i, el in enumerate(vrst):
+        if el == "THIS" and i + 9 < len(vrst):
+            if (
+                vrst[i + 1] == "WEEK"
+                and vrst[i + 2] == "LAST"
+                and vrst[i + 3] == "WEEK"
+                and vrst[i + 4] == "PEAK"
+                and vrst[i + 5] == "POS."
+                and vrst[i + 6] == "WKS ON"
+                and vrst[i + 7] == "CHART"
+            ):
+                zacetek = i + 8
+                break
+
+    if zacetek is None:
+        return []
+
+    for i in range(zacetek, len(vrst)):
+        if "See Full CHART Here" in vrst[i]:
+            konec = i
+            break
+
+        if re.fullmatch(r"[A-Za-z]+ \d{1,2}, \d{4}", vrst[i]):
+            konec = i
+            break
+
+        if vrst[i] in ["advertisement", "About Us", "Privacy Policy"]:
+            konec = i
+            break
+
+    if konec is None:
+        konec = len(vrst)
+
+    podatki = vrst[zacetek:konec]
+    vrst = []
+    i = 0
+
+    while i + 5 < len(podatki):
+        if not podatki[i].isdigit():
+            i += 1
             continue
 
-        for celica in celice:
-            for opomba in celica.find_all("sup"):
-                opomba.decompose()
+        rank = int(podatki[i])
 
-        podatki_vrstice = {
-            "artist_name": pocisti_besedilo(celice[0].get_text(" ", strip=True)),
-            "claimed_sales": pocisti_besedilo(celice[1].get_text(" ", strip=True)),
-            "period_active": pocisti_besedilo(celice[2].get_text(" ", strip=True)),
-            "genre": pocisti_besedilo(celice[3].get_text(" ", strip=True)),
-            "country": pocisti_besedilo(celice[4].get_text(" ", strip=True))
-        }
+        if rank < 1 or rank > 100:
+            i += 1
+            continue
 
-        if podatki_vrstice["artist_name"] and podatki_vrstice["artist_name"].lower() != "artist":
-            vrstice.append(podatki_vrstice)
+        premik = 0
+        if podatki[i + 1] == "New":
+            premik = 1
 
-    return vrstice
+        if i + 5 + premik >= len(podatki):
+            break
+
+        naslov_pesmi = podatki[i + 1 + premik]
+        izvajalec = podatki[i + 2 + premik]
+        last_week = podatki[i + 3 + premik]
+        peak_pos = podatki[i + 4 + premik]
+        weeks_on_chart = podatki[i + 5 + premik]
+
+        vrst.append(
+            {
+                "rank": rank,
+                "song_title": naslov_pesmi,
+                "artist_name": izvajalec,
+                "last_week": last_week,
+                "peak_pos": peak_pos,
+                "weeks_on_chart": weeks_on_chart,
+            }
+        )
+        i += 6 + premik
+
+    return vrst
 
 
-def glavni_program():
-    """Vrne None in shrani HTML podatke o najbolje prodajanih izvajalcih v CSV."""
-    odgovor = requests.get(URL_STRANI, headers=GLAVE_ZAHTEVKA, timeout=20)
-    odgovor.raise_for_status()
+def odstrani_podvojene(vrst):
+    """Vrne seznam brez podvojenih pesmi na lestvici."""
+    nove_vrst = []
+    videni = set()
 
-    juha = BeautifulSoup(odgovor.text, "html.parser")
-    ciljne_tabele = poisci_ciljne_tabele(juha)
+    for vrstica in vrst:
+        kljuc = (vrstica["rank"], vrstica["song_title"], vrstica["artist_name"])
+        if kljuc in videni:
+            continue
 
-    if not ciljne_tabele:
-        print("Glavne tabele niso bile najdene.")
+        nove_vrst.append(vrstica)
+        videni.add(kljuc)
+
+    return nove_vrst
+
+
+def glavni():
+    """Shrani Billboard Canadian Hot 100 podatke v csv."""
+    odg = requests.get(url, headers=glave, timeout=20)
+    odg.raise_for_status()
+
+    juha = BeautifulSoup(odg.text, "html.parser")
+    blok = poisci_blok_lestvice(juha)
+
+    if blok is None:
         return
 
-    vse_vrstice = []
-    videni_izvajalci = set()
+    vrst = vrstice_billboard(blok)
+    vrst = odstrani_podvojene(vrst)
 
-    for tabela in ciljne_tabele:
-        vrstice_tabele = izloci_vrstice(tabela)
+    if not vrst:
+        return
 
-        for vrstica in vrstice_tabele:
-            ime_izvajalca = vrstica["artist_name"].lower()
-            if ime_izvajalca in videni_izvajalci:
-                continue
-
-            vse_vrstice.append(vrstica)
-            videni_izvajalci.add(ime_izvajalca)
-
-    shrani_v_csv(vse_vrstice, IZHODNA_DATOTEKA)
-
-    print("HTML scraping je uspel.")
-    print("Stevilo vrstic:", len(vse_vrstice))
-    print(f"Podatki so shranjeni v: {IZHODNA_DATOTEKA}")
+    shrani_csv(vrst)
 
 
 if __name__ == "__main__":
-    glavni_program()
+    glavni()

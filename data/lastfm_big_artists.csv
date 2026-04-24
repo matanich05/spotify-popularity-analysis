@@ -1,121 +1,301 @@
 artist_name,listeners,playcount,tags,url,found
-Ariana Grande,4475990,1109080312,"pop, rnb, female vocalists, Ariana Grande, american",https://www.last.fm/music/Ariana+Grande,True
-Bad Bunny,2573961,405340306,"Reggaeton, trap, latin, puerto rico, trap latino",https://www.last.fm/music/Bad+Bunny,True
-Radiohead,8230090,1372592566,"rock, alternative, alternative rock, indie, electronic",https://www.last.fm/music/Radiohead,True
+Ariana Grande,4477347,1109635848,"pop, rnb, female vocalists, Ariana Grande, american",https://www.last.fm/music/Ariana+Grande,True
+Bad Bunny,2575689,405701157,"Reggaeton, trap, latin, puerto rico, trap latino",https://www.last.fm/music/Bad+Bunny,True
+Radiohead,8231641,1373114693,"rock, alternative, alternative rock, indie, electronic",https://www.last.fm/music/Radiohead,True
 The Neighbourhood,3962046,399568319,"indie, indie rock, indie pop, rock, alternative",https://www.last.fm/music/The+Neighbourhood,True
-Travi$ Scott,187531,11770812,"Hip-Hop, trap, rap, travis scott, hip hop",https://www.last.fm/music/Travi$+Scott,True
-Labrinth,2552131,75044062,"electronic, british, rnb, dance, r&b",https://www.last.fm/music/Labrinth,True
-Maluma,1010037,31922855,"Reggaeton, latin, Colombia, pop, latin pop",https://www.last.fm/music/Maluma,True
-System of a Down,5816516,512543668,"alternative metal, metal, Nu Metal, rock, alternative",https://www.last.fm/music/System+of+a+Down,True
-Frank Ocean,4258118,775532725,"rnb, soul, Hip-Hop, r&b, ofwgkta",https://www.last.fm/music/Frank+Ocean,True
-George Ezra,1451049,32213992,"indie, folk, singer-songwriter, british, indie folk",https://www.last.fm/music/George+Ezra,True
-Stray Kids,1360167,490115731,"k-pop, pop, Kpop, Korean, Hip-Hop",https://www.last.fm/music/Stray+Kids,True
+Travi$ Scott,187543,11771117,"Hip-Hop, trap, rap, travis scott, hip hop",https://www.last.fm/music/Travi$+Scott,True
+Labrinth,2553610,75095659,"electronic, british, rnb, dance, r&b",https://www.last.fm/music/Labrinth,True
+Maluma,1010503,31942561,"Reggaeton, latin, Colombia, pop, latin pop",https://www.last.fm/music/Maluma,True
+System of a Down,5817593,512716208,"alternative metal, metal, Nu Metal, rock, alternative",https://www.last.fm/music/System+of+a+Down,True
+Frank Ocean,4259322,775861742,"rnb, soul, Hip-Hop, r&b, ofwgkta",https://www.last.fm/music/Frank+Ocean,True
+George Ezra,1451446,32221490,"indie, folk, singer-songwriter, british, indie folk",https://www.last.fm/music/George+Ezra,True
+Stray Kids,1360720,490344050,"k-pop, pop, Kpop, Korean, Hip-Hop",https://www.last.fm/music/Stray+Kids,True
 TWICE,1919588,502085965,"k-pop, Kpop, Korean, pop, girl group",https://www.last.fm/music/TWICE,True
-Eagles,3837387,80051042,"classic rock, rock, 70s, soft rock, country",https://www.last.fm/music/Eagles,True
-BLACKPINK,2002452,313866873,"k-pop, Kpop, pop, Korean, blackpink",https://www.last.fm/music/BLACKPINK,True
-Calvin Harris,5014161,208955686,"electronic, dance, electro, Disco, electronica",https://www.last.fm/music/Calvin+Harris,True
-Farruko,815917,11182904,"Reggaeton, latin, Puerto Rican, puerto rico, reggaeton-boriqua",https://www.last.fm/music/Farruko,True
-Halsey,2838210,222685782,"pop, indie pop, indie, alternative, female vocalists",https://www.last.fm/music/Halsey,True
-The 1975,2650822,302659542,"indie, indie rock, british, alternative, rock",https://www.last.fm/music/The+1975,True
-Aerosmith,4724048,131298068,"hard rock, classic rock, rock, 80s, 70s",https://www.last.fm/music/Aerosmith,True
-John Denver,1774028,24954778,"country, folk, singer-songwriter, acoustic, classic rock",https://www.last.fm/music/John+Denver,True
-AP Dhillon,129465,8376001,"Bhangra, canada, Indian, india, punjab",https://www.last.fm/music/AP+Dhillon,True
-AC/DC,4558779,213405305,"hard rock, classic rock, rock, heavy metal, metal",https://www.last.fm/music/AC%2FDC,True
+Eagles,3838329,80090241,"classic rock, rock, 70s, soft rock, country",https://www.last.fm/music/Eagles,True
+BLACKPINK,2003213,313976787,"k-pop, Kpop, pop, Korean, blackpink",https://www.last.fm/music/BLACKPINK,True
+Calvin Harris,5015761,209067121,"electronic, dance, electro, Disco, electronica",https://www.last.fm/music/Calvin+Harris,True
+Farruko,816288,11189721,"Reggaeton, latin, Puerto Rican, puerto rico, reggaeton-boriqua",https://www.last.fm/music/Farruko,True
+Halsey,2839319,222762545,"pop, indie pop, indie, alternative, female vocalists",https://www.last.fm/music/Halsey,True
+The 1975,2651563,302790737,"indie, indie rock, british, alternative, rock",https://www.last.fm/music/The+1975,True
+Aerosmith,4724791,131324448,"hard rock, classic rock, rock, 80s, 70s",https://www.last.fm/music/Aerosmith,True
+John Denver,1774442,24962846,"country, folk, singer-songwriter, acoustic, classic rock",https://www.last.fm/music/John+Denver,True
+AP Dhillon,129521,8380120,"Bhangra, canada, Indian, india, punjab",https://www.last.fm/music/AP+Dhillon,True
+AC/DC,4559787,213454166,"hard rock, classic rock, rock, heavy metal, metal",https://www.last.fm/music/AC%2FDC,True
 Lil Tjay,948917,63485298,"rap, Hip-Hop, trap, drill, Melodic Rap",https://www.last.fm/music/Lil+Tjay,True
-Metallica,5180149,535191117,"thrash metal, heavy metal, metal, hard rock, rock",https://www.last.fm/music/Metallica,True
-Foo Fighters,6368873,363516463,"rock, alternative rock, Grunge, alternative, hard rock",https://www.last.fm/music/Foo+Fighters,True
-Amy Winehouse,4626978,204341609,"soul, jazz, female vocalists, british, singer-songwriter",https://www.last.fm/music/Amy+Winehouse,True
-Van Halen,3014940,81537403,"hard rock, classic rock, rock, heavy metal, 80s",https://www.last.fm/music/Van+Halen,True
+Metallica,5181136,535315740,"thrash metal, heavy metal, metal, hard rock, rock",https://www.last.fm/music/Metallica,True
+Foo Fighters,6370056,363604734,"rock, alternative rock, Grunge, alternative, hard rock",https://www.last.fm/music/Foo+Fighters,True
+Amy Winehouse,4627891,204395445,"soul, jazz, female vocalists, british, singer-songwriter",https://www.last.fm/music/Amy+Winehouse,True
+Van Halen,3015457,81560414,"hard rock, classic rock, rock, heavy metal, 80s",https://www.last.fm/music/Van+Halen,True
 Becky G,1459412,25804197,"pop, female vocalists, rap, Hip-Hop, latin",https://www.last.fm/music/Becky+G,True
-Bob Dylan,4305871,294151463,"folk, singer-songwriter, classic rock, folk rock, rock",https://www.last.fm/music/Bob+Dylan,True
-BTS,2442333,3666947527,"k-pop, bts, Kpop, Korean, pop",https://www.last.fm/music/BTS,True
-Falling in Reverse,1374737,69947296,"post-hardcore, screamo, hardcore, rock, ronnie radke",https://www.last.fm/music/Falling+in+Reverse,True
-Adele,5618574,318666054,"soul, female vocalists, british, singer-songwriter, indie",https://www.last.fm/music/Adele,True
-Led Zeppelin,4937117,341536698,"classic rock, hard rock, rock, 70s, Progressive rock",https://www.last.fm/music/Led+Zeppelin,True
-Yusuf / Cat Stevens,1003308,17870843,,https://www.last.fm/music/Yusuf+%2F+Cat+Stevens,True
-Cage the Elephant,3387296,146848468,"indie rock, alternative, rock, indie, punk rock",https://www.last.fm/music/Cage+the+Elephant,True
-The White Stripes,4851515,198781247,"rock, alternative rock, alternative, indie, indie rock",https://www.last.fm/music/The+White+Stripes,True
+Bob Dylan,4306658,294215579,"folk, singer-songwriter, classic rock, folk rock, rock",https://www.last.fm/music/Bob+Dylan,True
+BTS,2443676,3680886792,"k-pop, bts, Kpop, Korean, pop",https://www.last.fm/music/BTS,True
+Falling in Reverse,1375320,69983948,"post-hardcore, screamo, hardcore, rock, ronnie radke",https://www.last.fm/music/Falling+in+Reverse,True
+Adele,5619662,318738385,"soul, female vocalists, british, singer-songwriter, indie",https://www.last.fm/music/Adele,True
+Led Zeppelin,4937896,341601595,"classic rock, hard rock, rock, 70s, Progressive rock",https://www.last.fm/music/Led+Zeppelin,True
+Yusuf / Cat Stevens,1003583,17877690,,https://www.last.fm/music/Yusuf+%2F+Cat+Stevens,True
+Cage the Elephant,3388045,146900375,"indie rock, alternative, rock, indie, punk rock",https://www.last.fm/music/Cage+the+Elephant,True
+The White Stripes,4852253,198805199,"rock, alternative rock, alternative, indie, indie rock",https://www.last.fm/music/The+White+Stripes,True
 Jimi Hendrix,4055923,140044477,"classic rock, rock, blues, psychedelic, guitar",https://www.last.fm/music/Jimi+Hendrix,True
-G-Eazy,2081341,56324585,"Hip-Hop, rap, hip hop, american, The Cool Kids",https://www.last.fm/music/G-Eazy,True
-Lil Peep,2201985,375833914,"cloud rap, emo rap, rap, Hip-Hop, emo",https://www.last.fm/music/Lil+Peep,True
-The Who,3901796,118746492,"classic rock, rock, british, 60s, hard rock",https://www.last.fm/music/The+Who,True
-Cigarettes After Sex,2885404,312964990,"dream pop, shoegaze, slowcore, Lo-Fi, indie",https://www.last.fm/music/Cigarettes+After+Sex,True
-Clinton Kane,429182,9454464,"alternative, indie, folk, australian, independent",https://www.last.fm/music/Clinton+Kane,True
-Kygo,1991931,59181285,"electronic, House, tropical house, chillout, downtempo",https://www.last.fm/music/Kygo,True
-Guns N' Roses,5200531,204505560,"hard rock, rock, classic rock, 80s, metal",https://www.last.fm/music/Guns+N%27+Roses,True
-Three Days Grace,3882704,186088650,"alternative rock, rock, hard rock, alternative, metal",https://www.last.fm/music/Three+Days+Grace,True
-Nirvana,7526020,581268343,"Grunge, rock, alternative rock, alternative, 90s",https://www.last.fm/music/Nirvana,True
-Nicky Jam,1071348,15943271,"Reggaeton, latin, pop, nicky jam, oldies",https://www.last.fm/music/Nicky+Jam,True
+G-Eazy,2082466,56350616,"Hip-Hop, rap, hip hop, american, The Cool Kids",https://www.last.fm/music/G-Eazy,True
+Lil Peep,2202930,376074641,"cloud rap, emo rap, rap, Hip-Hop, emo",https://www.last.fm/music/Lil+Peep,True
+The Who,3902186,118762010,"classic rock, rock, british, 60s, hard rock",https://www.last.fm/music/The+Who,True
+Cigarettes After Sex,2886577,313166852,"dream pop, shoegaze, slowcore, Lo-Fi, indie",https://www.last.fm/music/Cigarettes+After+Sex,True
+Clinton Kane,429275,9456713,"alternative, indie, folk, australian, independent",https://www.last.fm/music/Clinton+Kane,True
+Kygo,1992657,59200292,"electronic, House, tropical house, chillout, downtempo",https://www.last.fm/music/Kygo,True
+Guns N' Roses,5201602,204566165,"hard rock, rock, classic rock, 80s, metal",https://www.last.fm/music/Guns+N%27+Roses,True
+Three Days Grace,3883835,186170168,"alternative rock, rock, hard rock, alternative, metal",https://www.last.fm/music/Three+Days+Grace,True
+Nirvana,7527235,581445800,"Grunge, rock, alternative rock, alternative, 90s",https://www.last.fm/music/Nirvana,True
+Nicky Jam,1071839,15953399,"Reggaeton, latin, pop, nicky jam, oldies",https://www.last.fm/music/Nicky+Jam,True
 John Mayer,3760852,203087736,"singer-songwriter, acoustic, rock, pop, Acoustic Rock",https://www.last.fm/music/John+Mayer,True
-Ozuna,940629,28514338,"Reggaeton, latin, puerto rico, Puerto Rican, Urbano Latino",https://www.last.fm/music/Ozuna,True
-Iron Maiden,3205725,267322979,"heavy metal, metal, NWOBHM, hard rock, rock",https://www.last.fm/music/Iron+Maiden,True
-Mithoon,114321,1932557,"bollywood, Hindi, Indian, world, bollywood hindi",https://www.last.fm/music/Mithoon,True
-Karan Aujla,111095,8626959,"Bhangra, hip hop, desi, Hip-Hop, Indian",https://www.last.fm/music/Karan+Aujla,True
-Lauv,1780977,78278366,"pop, indie pop, indie, american, jazz",https://www.last.fm/music/Lauv,True
-Tom Rosenthal,901615,16040760,"folk, indie, singer-songwriter, british, indie folk",https://www.last.fm/music/Tom+Rosenthal,True
-米津玄師,55609,5444286,"j-pop, japanese, J-rock, rock, niconico",https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB,True
-Sidhu Moose Wala,77905,3823430,"hip hop, Hip-Hop, Indian, asia, india",https://www.last.fm/music/Sidhu+Moose+Wala,True
-Alan Walker,1791483,48172671,"electronic, House, EDM, dance, norwegian",https://www.last.fm/music/Alan+Walker,True
-Atif Aslam,183200,8178063,"Hindi, pakistani rock, pakistani, pakistan, soft rock",https://www.last.fm/music/Atif+Aslam,True
-ENHYPEN,1140740,343247954,"k-pop, Kpop, Korean, pop, boy group",https://www.last.fm/music/ENHYPEN,True
-Anuv Jain,99027,5154304,"Hindi, indie, folk, guitar, Indian",https://www.last.fm/music/Anuv+Jain,True
-Zara Larsson,2310019,85879416,"pop, swedish, female vocalists, Sweden, indie",https://www.last.fm/music/Zara+Larsson,True
+Ozuna,941095,28535975,"Reggaeton, latin, puerto rico, Puerto Rican, Urbano Latino",https://www.last.fm/music/Ozuna,True
+Iron Maiden,3206204,267362031,"heavy metal, metal, NWOBHM, hard rock, rock",https://www.last.fm/music/Iron+Maiden,True
+Mithoon,114392,1934688,"bollywood, Hindi, Indian, world, bollywood hindi",https://www.last.fm/music/Mithoon,True
+Karan Aujla,111161,8637441,"Bhangra, hip hop, desi, Hip-Hop, Indian",https://www.last.fm/music/Karan+Aujla,True
+Lauv,1782036,78306062,"pop, indie pop, indie, american, jazz",https://www.last.fm/music/Lauv,True
+Tom Rosenthal,901871,16045430,"folk, indie, singer-songwriter, british, indie folk",https://www.last.fm/music/Tom+Rosenthal,True
+米津玄師,55629,5446787,"j-pop, japanese, J-rock, rock, niconico",https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB,True
+Sidhu Moose Wala,77928,3825138,"hip hop, Hip-Hop, Indian, asia, india",https://www.last.fm/music/Sidhu+Moose+Wala,True
+Alan Walker,1792243,48198464,"electronic, House, EDM, dance, norwegian",https://www.last.fm/music/Alan+Walker,True
+Atif Aslam,183263,8182652,"Hindi, pakistani rock, pakistani, pakistan, soft rock",https://www.last.fm/music/Atif+Aslam,True
+ENHYPEN,1141361,343515614,"k-pop, Kpop, Korean, pop, boy group",https://www.last.fm/music/ENHYPEN,True
+Anuv Jain,99089,5157511,"Hindi, indie, folk, guitar, Indian",https://www.last.fm/music/Anuv+Jain,True
+Zara Larsson,2312228,86030689,"pop, swedish, female vocalists, Sweden, indie",https://www.last.fm/music/Zara+Larsson,True
 Rammstein,3120657,320684957,"industrial metal, metal, german, industrial, rock",https://www.last.fm/music/Rammstein,True
-Badshah,149289,3019874,"rap, Hip-Hop, Indian, dance, Hindi",https://www.last.fm/music/Badshah,True
-The Chainsmokers,2820514,89474976,"electronic, pop, House, electro house, dance",https://www.last.fm/music/The+Chainsmokers,True
-A.R. Rahman,672440,17210658,"Soundtrack, Indian, bollywood, Hindi, A R Rahman",https://www.last.fm/music/A.R.+Rahman,True
-YOASOBI,890684,54095476,"j-pop, japanese, japan, pop, anime",https://www.last.fm/music/YOASOBI,True
-Wham!,3300263,43905164,"pop, 80s, new wave, british, dance",https://www.last.fm/music/Wham%21,True
-Alice in Chains,3454734,221470876,"Grunge, alternative rock, rock, hard rock, alternative",https://www.last.fm/music/Alice+in+Chains,True
-Diljit Dosanjh,154174,6587980,"Bhangra, Indian, Punjabi, desi, All",https://www.last.fm/music/Diljit+Dosanjh,True
-The Strokes,5714495,483492238,"indie rock, indie, rock, alternative, alternative rock",https://www.last.fm/music/The+Strokes,True
-King,288777,3672276,"80s, new wave, pop, british, rock",https://www.last.fm/music/King,True
-Neha Kakkar,95872,1253399,"bollywood, Hindi, Indian, india, female vocalists",https://www.last.fm/music/Neha+Kakkar,True
-Armaan Malik,124408,3687855,"india, Ballad, Indian",https://www.last.fm/music/Armaan+Malik,True
-Amit Trivedi,128187,4569122,"All, bollywood, Hindi, Soundtrack, Indian Fusion",https://www.last.fm/music/Amit+Trivedi,True
-Sufjan Stevens,3919104,300850812,"folk, indie, singer-songwriter, alternative, indie rock",https://www.last.fm/music/Sufjan+Stevens,True
-Doja Cat,3627143,468112358,"pop, rnb, rap, Hip-Hop, hip hop",https://www.last.fm/music/Doja+Cat,True
-The Score,613756,16175269,"rock, alternative, mod, freakbeat, pop",https://www.last.fm/music/The+Score,True
-Vishal-Shekhar,230089,10589123,"bollywood, Hindi, Indian, Soundtrack, india",https://www.last.fm/music/Vishal-Shekhar,True
+Badshah,149348,3021583,"rap, Hip-Hop, Indian, dance, Hindi",https://www.last.fm/music/Badshah,True
+The Chainsmokers,2821876,89523295,"electronic, pop, House, electro house, dance",https://www.last.fm/music/The+Chainsmokers,True
+A.R. Rahman,672616,17221147,"Soundtrack, Indian, bollywood, Hindi, A R Rahman",https://www.last.fm/music/A.R.+Rahman,True
+YOASOBI,891102,54124861,"j-pop, japanese, japan, pop, anime",https://www.last.fm/music/YOASOBI,True
+Wham!,3300648,43916595,"pop, 80s, new wave, british, dance",https://www.last.fm/music/Wham%21,True
+Alice in Chains,3455755,221582978,"Grunge, alternative rock, rock, hard rock, alternative",https://www.last.fm/music/Alice+in+Chains,True
+Diljit Dosanjh,154250,6594906,"Bhangra, Indian, Punjabi, desi, All",https://www.last.fm/music/Diljit+Dosanjh,True
+The Strokes,5716077,483837722,"indie rock, indie, rock, alternative, alternative rock",https://www.last.fm/music/The+Strokes,True
+King,288817,3673464,"80s, new wave, pop, british, rock",https://www.last.fm/music/King,True
+Neha Kakkar,95898,1253871,"bollywood, Hindi, Indian, india, female vocalists",https://www.last.fm/music/Neha+Kakkar,True
+Armaan Malik,124454,3689678,"india, Ballad, Indian",https://www.last.fm/music/Armaan+Malik,True
+Amit Trivedi,128247,4572638,"All, bollywood, Hindi, Soundtrack, Indian Fusion",https://www.last.fm/music/Amit+Trivedi,True
+Sufjan Stevens,3920379,300953536,"folk, indie, singer-songwriter, alternative, indie rock",https://www.last.fm/music/Sufjan+Stevens,True
+Doja Cat,3628615,468353695,"pop, rnb, rap, Hip-Hop, hip hop",https://www.last.fm/music/Doja+Cat,True
+The Score,613904,16181285,"rock, alternative, mod, freakbeat, pop",https://www.last.fm/music/The+Score,True
+Vishal-Shekhar,230240,10599264,"bollywood, Hindi, Indian, Soundtrack, india",https://www.last.fm/music/Vishal-Shekhar,True
 XXXTENTACION,2823376,342427232,"Hip-Hop, rap, cloud rap, trap, emo rap",https://www.last.fm/music/XXXTENTACION,True
-Anirudh Ravichander,141227,12188720,"tamil, All, kollywood, india, pop",https://www.last.fm/music/Anirudh+Ravichander,True
-Hozier,3341198,283406620,"blues, indie, soul, singer-songwriter, irish",https://www.last.fm/music/Hozier,True
+Anirudh Ravichander,141294,12197212,"tamil, All, kollywood, india, pop",https://www.last.fm/music/Anirudh+Ravichander,True
+Hozier,3342138,283533697,"blues, indie, soul, singer-songwriter, irish",https://www.last.fm/music/Hozier,True
 Billy Joel,4051438,129421270,"classic rock, singer-songwriter, rock, pop, piano",https://www.last.fm/music/Billy+Joel,True
-Bring Me the Horizon,2829252,324364977,"deathcore, metalcore, screamo, hardcore, metal",https://www.last.fm/music/Bring+Me+the+Horizon,True
-Yo Yo Honey Singh,121572,3810488,"rnb, Hip-Hop, Indian, bollywood, punjab",https://www.last.fm/music/Yo+Yo+Honey+Singh,True
-Arijit Singh,210375,11089085,"Hindi, bollywood, Indian, Soundtrack, india",https://www.last.fm/music/Arijit+Singh,True
-Mike Perry,488730,6089347,"swedish, electronic, tropical house, dance, House",https://www.last.fm/music/Mike+Perry,True
-Ben Howard,1313024,47970940,"folk, acoustic, singer-songwriter, british, indie",https://www.last.fm/music/Ben+Howard,True
-Santhosh Narayanan,34803,1834042,"Indian, Soundtrack, india, kollywood, filmi",https://www.last.fm/music/Santhosh+Narayanan,True
-Shankar-Ehsaan-Loy,167714,4945031,"bollywood, Hindi, Indian, Soundtrack, india",https://www.last.fm/music/Shankar-Ehsaan-Loy,True
-6ix9ine,1182644,32679960,"Hip-Hop, rap, trap, hip hop, Reggaeton",https://www.last.fm/music/6ix9ine,True
-Maribou State,646552,14997211,"electronic, ambient, future garage, dubstep, downtempo",https://www.last.fm/music/Maribou+State,True
-Ankit Tiwari,82574,1414631,"bollywood, Hindi, All, Soundtrack, love song",https://www.last.fm/music/Ankit+Tiwari,True
-Mokita,295314,4037060,"electronic, indie pop, indie, post-hardcore, indietronica",https://www.last.fm/music/Mokita,True
-The Beatles,6507803,1101092053,"classic rock, rock, british, 60s, pop",https://www.last.fm/music/The+Beatles,True
-ODESZA,1067630,40089114,"chillwave, electronic, ambient, glo-fi, electronica",https://www.last.fm/music/ODESZA,True
-Pearl Jam,4361582,253968470,"Grunge, rock, alternative rock, 90s, alternative",https://www.last.fm/music/Pearl+Jam,True
-Harris Jayaraj,48812,2597593,"kollywood, tamil, harris, Soundtrack, Soundtracks",https://www.last.fm/music/Harris+Jayaraj,True
-Motionless in White,903432,61110914,"metalcore, post-hardcore, screamo, hardcore, metal",https://www.last.fm/music/Motionless+in+White,True
-John De Sohn,249653,2185232,"House, trance, dance, swedish, electronic",https://www.last.fm/music/John+De+Sohn,True
+Bring Me the Horizon,2830135,324543175,"deathcore, metalcore, screamo, hardcore, metal",https://www.last.fm/music/Bring+Me+the+Horizon,True
+Yo Yo Honey Singh,121646,3813912,"rnb, Hip-Hop, Indian, bollywood, punjab",https://www.last.fm/music/Yo+Yo+Honey+Singh,True
+Arijit Singh,210491,11097511,"Hindi, bollywood, Indian, Soundtrack, india",https://www.last.fm/music/Arijit+Singh,True
+Mike Perry,488798,6090379,"swedish, electronic, tropical house, dance, House",https://www.last.fm/music/Mike+Perry,True
+Ben Howard,1313164,47976180,"folk, acoustic, singer-songwriter, british, indie",https://www.last.fm/music/Ben+Howard,True
+Santhosh Narayanan,34820,1835257,"Indian, Soundtrack, india, kollywood, filmi",https://www.last.fm/music/Santhosh+Narayanan,True
+Shankar-Ehsaan-Loy,167781,4948224,"bollywood, Hindi, Indian, Soundtrack, india",https://www.last.fm/music/Shankar-Ehsaan-Loy,True
+6ix9ine,1183228,32696121,"Hip-Hop, rap, trap, hip hop, Reggaeton",https://www.last.fm/music/6ix9ine,True
+Maribou State,646766,15002359,"electronic, ambient, future garage, dubstep, downtempo",https://www.last.fm/music/Maribou+State,True
+Ankit Tiwari,82658,1415994,"bollywood, Hindi, All, Soundtrack, love song",https://www.last.fm/music/Ankit+Tiwari,True
+Mokita,295353,4037798,"electronic, indie pop, indie, post-hardcore, indietronica",https://www.last.fm/music/Mokita,True
+The Beatles,6509040,1101417268,"classic rock, rock, british, 60s, pop",https://www.last.fm/music/The+Beatles,True
+ODESZA,1067830,40098692,"chillwave, electronic, ambient, glo-fi, electronica",https://www.last.fm/music/ODESZA,True
+Pearl Jam,4362632,254036469,"Grunge, rock, alternative rock, 90s, alternative",https://www.last.fm/music/Pearl+Jam,True
+Harris Jayaraj,48852,2600177,"kollywood, tamil, harris, Soundtrack, Soundtracks",https://www.last.fm/music/Harris+Jayaraj,True
+Motionless in White,903897,61152751,"metalcore, post-hardcore, screamo, hardcore, metal",https://www.last.fm/music/Motionless+in+White,True
+John De Sohn,249665,2185456,"House, trance, dance, swedish, electronic",https://www.last.fm/music/John+De+Sohn,True
 I Prevail,590471,32752394,"post-hardcore, metalcore, alternative metal, rock, metal",https://www.last.fm/music/I+Prevail,True
-KK,159823,3077208,"Hindi, Indian, bollywood, icelandic, All",https://www.last.fm/music/KK,True
-M83,3530491,140395202,"electronic, shoegaze, post-rock, indie, electronica",https://www.last.fm/music/M83,True
-Zack Tabudlo,250232,10044115,"OPM, singer-songwriter, rnb, indie pop, Filipino",https://www.last.fm/music/Zack+Tabudlo,True
-Seether,2415524,77734073,"alternative rock, rock, hard rock, Grunge, alternative",https://www.last.fm/music/Seether,True
+KK,159898,3078875,"Hindi, Indian, bollywood, icelandic, All",https://www.last.fm/music/KK,True
+M83,3531278,140420259,"electronic, shoegaze, post-rock, indie, electronica",https://www.last.fm/music/M83,True
+Zack Tabudlo,250333,10047793,"OPM, singer-songwriter, rnb, indie pop, Filipino",https://www.last.fm/music/Zack+Tabudlo,True
+Seether,2416149,77760180,"alternative rock, rock, hard rock, Grunge, alternative",https://www.last.fm/music/Seether,True
 Elton John,5222543,163515321,"pop, classic rock, singer-songwriter, rock, piano",https://www.last.fm/music/Elton+John,True
-G. V. Prakash,31547,1542284,"Indian, india, kollywood, tamil",https://www.last.fm/music/G.+V.+Prakash,True
-Nas,3378786,140765717,"Hip-Hop, rap, east coast rap, hip hop, new york",https://www.last.fm/music/Nas,True
-Shankar Mahadevan,151121,2573948,"Hindi, Indian, bollywood, desi, world",https://www.last.fm/music/Shankar+Mahadevan,True
-Bad Omens,798389,88456812,"metalcore, post-hardcore, alternative metal, metal, alternative rock",https://www.last.fm/music/Bad+Omens,True
-Dhanush,26303,536977,"Indian, folk, india, tamil, wokolDhanush",https://www.last.fm/music/Dhanush,True
-Lisa,1961131,129018720,"j-pop, japanese, female vocalists, pop, Hip-Hop",https://www.last.fm/music/Lisa,True
-Sukhwinder Singh,140759,1573503,"bollywood, Hindi, Indian, Punjabi, desi",https://www.last.fm/music/Sukhwinder+Singh,True
-timmies,306238,4283945,"beats, Lo-Fi, rnb, lofi, chill",https://www.last.fm/music/timmies,True
-dhruv,733753,16374010,"jazz, Indian, rnb, guitar, jazz fusion",https://www.last.fm/music/dhruv,True
-Raimu,248116,3097638,"switzerland, Lo-Fi, instrumental hip-hop, lo-fi hip-hop, Hip-Hop",https://www.last.fm/music/Raimu,True
+G. V. Prakash,31567,1544515,"Indian, india, kollywood, tamil",https://www.last.fm/music/G.+V.+Prakash,True
+Nas,3379352,140803036,"Hip-Hop, rap, east coast rap, hip hop, new york",https://www.last.fm/music/Nas,True
+Shankar Mahadevan,151183,2575364,"Hindi, Indian, bollywood, desi, world",https://www.last.fm/music/Shankar+Mahadevan,True
+Bad Omens,798850,88534132,"metalcore, post-hardcore, alternative metal, metal, alternative rock",https://www.last.fm/music/Bad+Omens,True
+Dhanush,26317,537198,"Indian, folk, india, tamil, wokolDhanush",https://www.last.fm/music/Dhanush,True
+Lisa,1961934,129080019,"j-pop, japanese, female vocalists, pop, Hip-Hop",https://www.last.fm/music/Lisa,True
+Sukhwinder Singh,140795,1574231,"bollywood, Hindi, Indian, Punjabi, desi",https://www.last.fm/music/Sukhwinder+Singh,True
+timmies,306298,4284739,"beats, Lo-Fi, rnb, lofi, chill",https://www.last.fm/music/timmies,True
+dhruv,734222,16382523,"jazz, Indian, rnb, guitar, jazz fusion",https://www.last.fm/music/dhruv,True
+Raimu,248132,3098045,"switzerland, Lo-Fi, instrumental hip-hop, lo-fi hip-hop, Hip-Hop",https://www.last.fm/music/Raimu,True
 Cascada,2313679,43277119,"dance, pop, trance, female vocalists, techno",https://www.last.fm/music/Cascada,True
-"Fear, and Loathing in Las Vegas",229020,8335970,"post-hardcore, electronic, trancecore, japanese, screamo","https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas",True
-Claptone,371876,3943295,"House, deep house, electronic, nu disco, Disco",https://www.last.fm/music/Claptone,True
-Martin Garrix,2085328,51829569,"House, electronic, dance, electropop, pop",https://www.last.fm/music/Martin+Garrix,True
-Aimer,482184,24785456,"j-pop, japanese, female vocalists, pop, JPop",https://www.last.fm/music/Aimer,True
+"Fear, and Loathing in Las Vegas",229126,8338117,"post-hardcore, electronic, trancecore, japanese, screamo","https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas",True
+Claptone,371924,3944030,"House, deep house, electronic, nu disco, Disco",https://www.last.fm/music/Claptone,True
+Martin Garrix,2086056,51849937,"House, electronic, dance, electropop, pop",https://www.last.fm/music/Martin+Garrix,True
+Aimer,482403,24795045,"j-pop, japanese, female vocalists, pop, JPop",https://www.last.fm/music/Aimer,True
+Badfinger,842511,9896170,"classic rock, power pop, rock, 70s, pop",https://www.last.fm/music/Badfinger,True
+Vicetone,633353,11118261,"House, electronic, Progressive House, dance, EDM",https://www.last.fm/music/Vicetone,True
+ASIAN KUNG-FU GENERATION,707954,44240813,"J-rock, japanese, rock, j-pop, jrock",https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION,True
+Bobby Darin,1383255,12862476,"jazz, swing, oldies, male vocalists, easy listening",https://www.last.fm/music/Bobby+Darin,True
+Slayer,2355437,138455114,"thrash metal, metal, speed metal, heavy metal, thrash",https://www.last.fm/music/Slayer,True
+Connor Price,514465,14732429,"rap, Canadian, Hip-Hop, pop, canada",https://www.last.fm/music/Connor+Price,True
+GAMPER & DADONI,264746,2504751,"House, remixer, electro, electronica, germany",https://www.last.fm/music/GAMPER+&+DADONI,True
+Roy Orbison,2033313,26426746,"classic rock, rockabilly, 60s, oldies, rock",https://www.last.fm/music/Roy+Orbison,True
+The Everly Brothers,906968,8971459,"oldies, 60s, rock n roll, Rock and Roll, pop",https://www.last.fm/music/The+Everly+Brothers,True
+Fujii Kaze,810471,29290460,"j-pop, japanese, jazz, pop, japan",https://www.last.fm/music/Fujii+Kaze,True
+KANA-BOON,540341,11742249,"J-rock, japanese, rock, indie rock, indie",https://www.last.fm/music/KANA-BOON,True
+keshi,1113637,132853504,"Lo-Fi, rnb, live, alternative, alternative rock",https://www.last.fm/music/keshi,True
+L'Impératrice,686885,16709169,"french, synthpop, funk, electronic, france",https://www.last.fm/music/L%27Imp%C3%A9ratrice,True
+iAmJakeHill,419773,22372302,"rap, Hip-Hop, underground rap, hardcore, hip hop",https://www.last.fm/music/iAmJakeHill,True
+Novo Amor,1268283,41374902,"folk, indie, acoustic, british, indie folk",https://www.last.fm/music/Novo+Amor,True
+Ado,698953,82231747,"j-pop, japanese, female vocalists, pop, utaite",https://www.last.fm/music/Ado,True
+Adam Jensen,217272,3940517,"indie, electronic, alternative, rock, alternative rock",https://www.last.fm/music/Adam+Jensen,True
+Aphex Twin,3032075,223731710,"electronic, idm, ambient, experimental, electronica",https://www.last.fm/music/Aphex+Twin,True
+Major Lazer,2991488,69728643,"electronic, dancehall, reggae, dub, electro",https://www.last.fm/music/Major+Lazer,True
+Crumb,1293277,37086193,"indie rock, dream pop, psychedelic pop, indie, indie pop",https://www.last.fm/music/Crumb,True
+Audioslave,3316666,95482923,"alternative rock, rock, hard rock, Grunge, alternative",https://www.last.fm/music/Audioslave,True
+shy martin,261814,4330090,"pop, electronic, swedish, indie, indie pop",https://www.last.fm/music/shy+martin,True
+Chris Lake,792210,10154587,"House, electro house, Progressive House, electronic, dance",https://www.last.fm/music/Chris+Lake,True
+Eric Chou,85493,4088788,"male vocalists, taiwanese, chinese, C-pop, Asian Pop",https://www.last.fm/music/Eric+Chou,True
+Andrew Belle,506316,8017255,"singer-songwriter, indie, acoustic, folk, pop",https://www.last.fm/music/Andrew+Belle,True
+shRk,186107,2426351,"hip hop, instrumental, Lo-Fi, indonesian",https://www.last.fm/music/shRk,True
+Fireboy DML,370290,5746807,"afrobeats, nigeria, rap, nigerian, africa",https://www.last.fm/music/Fireboy+DML,True
+kochetkovv,156224,1555706,"Lo-Fi, beats, chill, russian",https://www.last.fm/music/kochetkovv,True
+DVBBS,624342,6430236,"House, electronic, Canadian, electro house, electro",https://www.last.fm/music/DVBBS,True
+Rahat Fateh Ali Khan,144253,2891288,"sufi, qawwali, pakistani, bollywood, Hindi",https://www.last.fm/music/Rahat+Fateh+Ali+Khan,True
+Tchami,362108,4650560,"House, electronic, deep house, french, future house",https://www.last.fm/music/Tchami,True
+MASN,242481,3819448,"emo rap, Hip-Hop, rap, pop, rnb",https://www.last.fm/music/MASN,True
+The Smiths,5067824,538577504,"post-punk, indie, new wave, 80s, alternative",https://www.last.fm/music/The+Smiths,True
+秦基博,23266,1757193,"japanese, j-pop, singer-songwriter, male vocalists, pop",https://www.last.fm/music/%E7%A7%A6%E5%9F%BA%E5%8D%9A,True
+Otaku,233919,4037520,"techno, trance, Acid, electronic, trip-hop",https://www.last.fm/music/Otaku,True
+Ben Rector,298770,4772200,"singer-songwriter, piano rock, piano, christian, pop rock",https://www.last.fm/music/Ben+Rector,True
+Fiji Blue,316653,5843896,"electronic, House, rnb, indie pop, synthpop",https://www.last.fm/music/Fiji+Blue,True
+Five Finger Death Punch,1579300,80501670,"groove metal, metalcore, metal, thrash metal, hardcore",https://www.last.fm/music/Five+Finger+Death+Punch,True
+Asking Alexandria,988074,69796611,"post-hardcore, metalcore, screamo, electronic, hardcore",https://www.last.fm/music/Asking+Alexandria,True
+Nickelback,4364769,152438224,"rock, alternative rock, hard rock, alternative, Canadian",https://www.last.fm/music/Nickelback,True
+Lonely in the Rain,129566,1365130,"chillout, electronic, french, france, electro-chill",https://www.last.fm/music/Lonely+in+the+Rain,True
+Green Day,6587821,446094803,"punk rock, rock, punk, pop punk, alternative",https://www.last.fm/music/Green+Day,True
+Keenan Te,93827,2335686,"australia, australian",https://www.last.fm/music/Keenan+Te,True
+Biscits,189768,1707649,"UK, House, tech house, british, english",https://www.last.fm/music/Biscits,True
+demxntia,304849,6701022,"alternative rnb, Hip-Hop, rnb, indie pop, florida",https://www.last.fm/music/demxntia,True
+The Bangles,1506428,14322472,"pop, 80s, female vocalists, new wave, rock",https://www.last.fm/music/The+Bangles,True
+Sarcastic Sounds,457597,6355631,"Lo-Fi, Canadian, USA, Hip-Hop, beats",https://www.last.fm/music/Sarcastic+Sounds,True
+Ramin Djawadi,960571,48048881,"Soundtrack, instrumental, composer, ambient, electronic",https://www.last.fm/music/Ramin+Djawadi,True
+Pink Floyd,5551623,609583559,"Progressive rock, Psychedelic Rock, classic rock, rock, psychedelic",https://www.last.fm/music/Pink+Floyd,True
+OaFF,44537,745615,"indietronica, electronic, Indian, alternative, india",https://www.last.fm/music/OaFF,True
+JVKE,1618398,46872391,"indie pop, pop, indie, my top songs, Classical",https://www.last.fm/music/JVKE,True
+Parachute,592700,9285483,"pop, ambient, electronic, chill out, indie",https://www.last.fm/music/Parachute,True
+Arctic Monkeys,7096494,934222946,"indie rock, indie, british, alternative, rock",https://www.last.fm/music/Arctic+Monkeys,True
+Linkin Park,6930964,744198862,"Nu Metal, rock, alternative rock, alternative, metal",https://www.last.fm/music/Linkin+Park,True
+Koffee,206006,2580158,"reggae, dancehall, rap, jamaica, jamaican",https://www.last.fm/music/Koffee,True
+Eve,1802133,52274999,"Hip-Hop, rap, female vocalists, rnb, hip hop",https://www.last.fm/music/Eve,True
+Shiloh Dynasty,400089,5902239,"Lo-Fi, indie, USA, american, remix",https://www.last.fm/music/Shiloh+Dynasty,True
+BURNOUT SYNDROMES,279692,5487543,"japanese, rock, J-rock, j-pop, jrock",https://www.last.fm/music/BURNOUT+SYNDROMES,True
+Jubin Nautiyal,64582,1043385,Indian,https://www.last.fm/music/Jubin+Nautiyal,True
+Wizkid,599007,14587605,"afrobeat, Hip-Hop, afrobeats, nigeria, afropop",https://www.last.fm/music/Wizkid,True
+Shreya Ghoshal,181132,3469548,"bollywood, Hindi, Indian, shreya ghoshal, female vocalists",https://www.last.fm/music/Shreya+Ghoshal,True
+A Great Big World,839383,8440095,"indie, indie pop, pop, american, piano",https://www.last.fm/music/A+Great+Big+World,True
+Elvis Presley,4501174,151879925,"rock n roll, classic rock, rock, oldies, Rock and Roll",https://www.last.fm/music/Elvis+Presley,True
+Avenged Sevenfold,2873678,235395737,"metalcore, hard rock, metal, hardcore, rock",https://www.last.fm/music/Avenged+Sevenfold,True
+Roshan Sebastian,3157,25879,Indian,https://www.last.fm/music/Roshan+Sebastian,True
+Ritviz,62697,1938444,"Indian, electronic, india, Fusion",https://www.last.fm/music/Ritviz,True
+Alok,1266026,25809020,"electronic, dance, EDM, brazilian, House",https://www.last.fm/music/Alok,True
+UVERworld,488343,20375828,"J-rock, japanese, j-pop, anime, jrock",https://www.last.fm/music/UVERworld,True
+Zeds Dead,635184,10329236,"dubstep, Brostep, electronic, electro, Grime",https://www.last.fm/music/Zeds+Dead,True
+CHiCO with HoneyWorks,138300,2907262,"j-pop, japanese, female vocalists, anime, pop",https://www.last.fm/music/CHiCO+with+HoneyWorks,True
+Air,3219893,137281085,"electronic, chillout, ambient, french, electronica",https://www.last.fm/music/Air,True
+CamelPhat,601172,7648399,"House, british, electronic, deep house, minimal techno",https://www.last.fm/music/CamelPhat,True
+The Notorious B.I.G.,3126817,95045361,"Hip-Hop, rap, Gangsta Rap, east coast rap, hip hop",https://www.last.fm/music/The+Notorious+B.I.G.,True
+W&W,549144,7550811,"trance, progressive trance, Tech trance, electronic, Hard Trance",https://www.last.fm/music/W&W,True
+Y.V.E. 48,171010,1385142,"House, deep house, soul, Berlin, germany",https://www.last.fm/music/Y.V.E.+48,True
+Khantrast,289191,8125428,"rap, drill, hiphop, Hip-Hop, Rapper",https://www.last.fm/music/Khantrast,True
+Huge L,28221,3475031,"Hip-Hop, finnish, Suomirap, rap, Suomi Hip-hop",https://www.last.fm/music/Huge+L,True
+M-22,159696,1200793,"electronic, House, dance, indie, female vocalists",https://www.last.fm/music/M-22,True
+Slaughter to Prevail,267376,10882683,"deathcore, russian, death metal, metal, brutal deathcore",https://www.last.fm/music/Slaughter+to+Prevail,True
+Boyce Avenue,694521,19679747,"acoustic, alternative, rock, indie, youtube",https://www.last.fm/music/Boyce+Avenue,True
+Purple Disco Machine,590716,10719362,"House, electronic, Disco, deep house, C",https://www.last.fm/music/Purple+Disco+Machine,True
+告五人,44400,1475446,"taiwanese, taiwan, chinese, indie rock, China",https://www.last.fm/music/%E5%91%8A%E4%BA%94%E4%BA%BA,True
+We Came as Romans,821949,29506675,"post-hardcore, metalcore, screamo, hardcore, hundycore",https://www.last.fm/music/We+Came+as+Romans,True
+Our Last Night,602285,22866508,"post-hardcore, screamo, emocore, hardcore, emo",https://www.last.fm/music/Our+Last+Night,True
+Porter Robinson,1338760,66907053,"electro house, electronic, dubstep, House, electro",https://www.last.fm/music/Porter+Robinson,True
+Zayde Wølf,193142,3008766,"indie, alternative, american, pop, crossover",https://www.last.fm/music/Zayde+W%C3%B8lf,True
+Kina Grannis,569043,6934606,"acoustic, female vocalists, singer-songwriter, singer songwriter, pop",https://www.last.fm/music/Kina+Grannis,True
+Vijay Antony,16556,473436,"kollywood, vijay antony",https://www.last.fm/music/Vijay+Antony,True
+Bombay Jayashri,47268,451203,"carnatic, Indian, meditative, mantras, carnatic vocal",https://www.last.fm/music/Bombay+Jayashri,True
+Josh A,330303,21525707,"rap, hip hop, emo rap, Hip-Hop, independent",https://www.last.fm/music/Josh+A,True
+Breaking Benjamin,2885251,135971272,"alternative rock, rock, hard rock, alternative, metal",https://www.last.fm/music/Breaking+Benjamin,True
+Sleeping at Last,1329117,40453053,"indie, indie rock, alternative, christian, rock",https://www.last.fm/music/Sleeping+at+Last,True
+benny blanco,1465397,41366720,"pop, hip hop, electronic, Hip-Hop, american",https://www.last.fm/music/benny+blanco,True
+Ricky Nelson,1021104,8593495,"rockabilly, oldies, 60s, classic rock, rock",https://www.last.fm/music/Ricky+Nelson,True
+Syn Cole,394860,4139843,"electronic, House, dance, estonian, Progressive House",https://www.last.fm/music/Syn+Cole,True
+Pritam,293363,29723884,"bollywood, Hindi, All, Indian, Soundtrack",https://www.last.fm/music/Pritam,True
+deadmau5,2144297,80607695,"Progressive House, House, electronic, electro house, electro",https://www.last.fm/music/deadmau5,True
+Modern Talking,1362331,23166033,"80s, Disco, pop, dance, german",https://www.last.fm/music/Modern+Talking,True
+Face,165134,10864138,"Hip-Hop, rap, Industrial Techno, Rave, fast techno",https://www.last.fm/music/Face,True
+SPYAIR,219292,7180097,"J-rock, japanese, rock, anime, alternative",https://www.last.fm/music/SPYAIR,True
+Alter Bridge,1168220,46542506,"alternative rock, hard rock, rock, post-grunge, alternative",https://www.last.fm/music/Alter+Bridge,True
+Dimitri Vegas & Like Mike,849163,12327369,"House, electronic, Progressive House, electro house, electro",https://www.last.fm/music/Dimitri+Vegas+&+Like+Mike,True
+Ólafur Arnalds,1210946,40066984,"ambient, instrumental, icelandic, post-rock, Classical",https://www.last.fm/music/%C3%93lafur+Arnalds,True
+Creed,2456847,58216198,"rock, alternative rock, hard rock, Grunge, alternative",https://www.last.fm/music/Creed,True
+Jasleen Royal,97106,2177982,"india, Hindie",https://www.last.fm/music/Jasleen+Royal,True
+Deep Purple,3035372,82125879,"hard rock, classic rock, rock, Progressive rock, heavy metal",https://www.last.fm/music/Deep+Purple,True
+44phantom,107835,2640056,"pop, american, pop rock, rap, United States",https://www.last.fm/music/44phantom,True
+The Local train,59417,2536978,"india, rock, indie rock, pop rock, Pop-Rock",https://www.last.fm/music/The+Local+train,True
+Lucas Estrada,230062,2325930,"House, electronic, dance, EDM, tropical house",https://www.last.fm/music/Lucas+Estrada,True
+林俊傑,54926,3022813,"chinese, C-pop, cpop, taiwan, mandarin",https://www.last.fm/music/%E6%9E%97%E4%BF%8A%E5%82%91,True
+Ludovico Einaudi,1812478,67993383,"piano, Classical, contemporary classical, instrumental, ambient",https://www.last.fm/music/Ludovico+Einaudi,True
+A Rocket to the Moon,432649,13091459,"powerpop, electronic, electronica, experimental, power pop",https://www.last.fm/music/A+Rocket+to+the+Moon,True
+Nora En Pure,374794,5308518,"House, deep house, electronic, swiss, dance",https://www.last.fm/music/Nora+En+Pure,True
+Estopa,308952,8949879,"spanish, Flamenco, pop, rock, rumba",https://www.last.fm/music/Estopa,True
+RADWIMPS,703563,42775980,"J-rock, japanese, rock, alternative, j-pop",https://www.last.fm/music/RADWIMPS,True
+Slipknot,4212958,363111363,"Nu Metal, metal, heavy metal, Nu-metal, rock",https://www.last.fm/music/Slipknot,True
+Yuvan Shankar Raja,47398,2596177,"tamil, Indian, Yuvan, Soundtrack, Yuvanshankar Raja",https://www.last.fm/music/Yuvan+Shankar+Raja,True
+周杰倫,121494,11113562,"chinese, C-pop, pop, Jay Chou, taiwan",https://www.last.fm/music/%E5%91%A8%E6%9D%B0%E5%80%AB,True
+G.E.M.,97119,3791707,"C-pop, pop, chinese, dance, female vocalists",https://www.last.fm/music/G.E.M.,True
+Jagjit Singh,79733,1844198,"Ghazal, Hindi, Indian, bollywood, desi",https://www.last.fm/music/Jagjit+Singh,True
+Gracie Abrams,1807971,288396170,"pop, indie pop, my top songs, singer-songwriter, female vocalists",https://www.last.fm/music/Gracie+Abrams,True
+Promoting Sounds,228372,5045391,"emo rap, american",https://www.last.fm/music/Promoting+Sounds,True
+Henrique & Juliano,393678,34219164,"sertanejo, brazilian country, Sertanejo Universitario, Sertaneja, brazilian",https://www.last.fm/music/Henrique+&+Juliano,True
+Sub Zero Project,136225,4250980,"hardstyle, dutch, rawstyle, electronic, Belgium",https://www.last.fm/music/Sub+Zero+Project,True
+Poshlaya Molly,80019,2878339,"Ukraine, Ukrainian, rock, electronic, electronic rock",https://www.last.fm/music/Poshlaya+Molly,True
+30 Seconds to Mars,2293554,124171843,"alternative rock, rock, alternative, indie, emo",https://www.last.fm/music/30+Seconds+to+Mars,True
+Super Simple Songs,176518,8514282,"kids, my top songs",https://www.last.fm/music/Super+Simple+Songs,True
+Jamie Jones,261986,1945080,"tech house, minimal, House, electronic, Progressive",https://www.last.fm/music/Jamie+Jones,True
+Nora Van Elken,175455,1994838,"electronic, deep house, dutch, House, EDM",https://www.last.fm/music/Nora+Van+Elken,True
+Dom Dolla,593544,9070523,"House, electronic, australian, australia, deep house",https://www.last.fm/music/Dom+Dolla,True
+Daughtry,1527742,37509030,"rock, alternative rock, alternative, hard rock, American Idol",https://www.last.fm/music/Daughtry,True
+The Offspring,4579327,214388666,"punk rock, punk, rock, alternative rock, alternative",https://www.last.fm/music/The+Offspring,True
+Zaeden,53530,1251140,"Hindi, electronic, india",https://www.last.fm/music/Zaeden,True
+Lund,508284,12699124,"rap, cloud rap, emo rap, Hip-Hop, trap",https://www.last.fm/music/Lund,True
+The Doors,4730122,229227237,"classic rock, Psychedelic Rock, rock, 60s, psychedelic",https://www.last.fm/music/The+Doors,True
+Mayday,118412,2709048,"indie, hardcore, taiwanese, indie rock, metallic hardcore",https://www.last.fm/music/Mayday,True
+Murilo Huff,216909,13323292,"brazilian, brazil, ex da marilia",https://www.last.fm/music/Murilo+Huff,True
+Arch Enemy,914532,61818945,"Melodic Death Metal, death metal, Female fronted metal, swedish, metal",https://www.last.fm/music/Arch+Enemy,True
+Bethel Music,198708,8991781,"worship, christian, Bethel Live, bethel, indie",https://www.last.fm/music/Bethel+Music,True
+Yellow Claw,713829,9958352,"trap, electronic, Hip-Hop, House, electro",https://www.last.fm/music/Yellow+Claw,True
+Ben Platt,581073,16460414,"Broadway, pop, musical, singer-songwriter, actor",https://www.last.fm/music/Ben+Platt,True
+Slander,444593,9298481,"Brostep, heavy metal, hardcore, dubstep, NWOBHM",https://www.last.fm/music/Slander,True
+Kayzo,256720,3910141,"dubstep, electronic, electro house, american, Brostep",https://www.last.fm/music/Kayzo,True
+Kristen Bell,712437,9398795,"rock, Love, cool, pop, revolution",https://www.last.fm/music/Kristen+Bell,True
+Lane 8,378102,9268938,"House, electronic, chillwave, Melodic House, deep house",https://www.last.fm/music/Lane+8,True
+Powfu,1102426,28274670,"Hip-Hop, Lo-Fi, emo rap, rap, indie",https://www.last.fm/music/Powfu,True
+Tove Lo,2449252,123991293,"pop, swedish, electronic, female vocalists, indie",https://www.last.fm/music/Tove+Lo,True
+Yann Tiersen,1930736,98628303,"instrumental, Soundtrack, french, piano, Classical",https://www.last.fm/music/Yann+Tiersen,True
+Yves V,293164,2922375,"House, electronic, dance, belgian, Belgium",https://www.last.fm/music/Yves+V,True
+ONE OK ROCK,626903,54209457,"J-rock, japanese, rock, jrock, japanese rock",https://www.last.fm/music/ONE+OK+ROCK,True
+for KING & COUNTRY,240943,4711401,"christian, indie, christian rock, contemporary christian, alternative",https://www.last.fm/music/for+KING+&+COUNTRY,True
+sadeyes,160466,6800829,"emo rap, Hip-Hop, american, electronic, sad",https://www.last.fm/music/sadeyes,True
+Mohan Kannan,20819,212838,bollywood,https://www.last.fm/music/Mohan+Kannan,True
+Meshuggah,727811,48279078,"Progressive metal, math metal, Technical Metal, death metal, metal",https://www.last.fm/music/Meshuggah,True
+Jeremy Zucker,1052549,44649230,"pop, indie, indie pop, singer-songwriter, american",https://www.last.fm/music/Jeremy+Zucker,True
+Gojira,1022064,85220140,"death metal, Progressive metal, progressive death metal, metal, thrash metal",https://www.last.fm/music/Gojira,True
+Moderat,743453,32852882,"electronic, idm, techno, glitch, BPitch Control",https://www.last.fm/music/Moderat,True
+Boards of Canada,2086670,164753615,"ambient, electronic, idm, chillout, electronica",https://www.last.fm/music/Boards+of+Canada,True
+D.O.D,406640,6024301,"electro, psychedelic, dutch, House, deep house",https://www.last.fm/music/D.O.D,True
+Alka Yagnik,142305,1710498,"bollywood, Hindi, Indian, india, world",https://www.last.fm/music/Alka+Yagnik,True
+Sim,501778,13332175,"J-rock, japanese, punk rock, rock, ska",https://www.last.fm/music/Sim,True
+Tristam,341222,6899227,"dubstep, electronic, electro, Brostep, dubstep dub",https://www.last.fm/music/Tristam,True
+Aries,485586,28803135,"Progressive rock, rap, Hip-Hop, pop, Drum and bass",https://www.last.fm/music/Aries,True
+KSHMR,360750,6235542,"big room, House, american, electronic, EDM",https://www.last.fm/music/KSHMR,True
+Eddie Vedder,1327490,43104351,"singer-songwriter, Grunge, rock, folk, alternative",https://www.last.fm/music/Eddie+Vedder,True
+Craig David,1270049,17978444,"rnb, pop, soul, british, male vocalists",https://www.last.fm/music/Craig+David,True
+Feint,378328,10081799,"Drum and bass, liquid funk, dnb, melodic dnb, dancefloor drum and bass",https://www.last.fm/music/Feint,True
+Hardwell,763627,16822931,"House, Progressive House, electro house, dance, electro",https://www.last.fm/music/Hardwell,True
+Deep Chills,133163,1129791,"House, italian, Italy, deep house, Milan",https://www.last.fm/music/Deep+Chills,True
+Christian Löffler,340102,6943390,"minimal techno, techno, minimal, electronic, House",https://www.last.fm/music/Christian+L%C3%B6ffler,True
+Pharaoh,161157,9396014,"Power metal, heavy metal, cloud rap, Hip-Hop, rap",https://www.last.fm/music/Pharaoh,True
+My Chemical Romance,4842038,547819973,"rock, alternative, punk rock, emo, punk",https://www.last.fm/music/My+Chemical+Romance,True
+Hiroyuki Sawano,357669,18824883,"Soundtrack, japanese, instrumental, composer, japan",https://www.last.fm/music/Hiroyuki+Sawano,True
+Lamb of God,1460521,82729438,"groove metal, metalcore, thrash metal, metal, death metal",https://www.last.fm/music/Lamb+of+God,True
+yaeow,180177,2942677,"swedish, acoustic, indie, lofi, Lo-Fi",https://www.last.fm/music/yaeow,True
+Ilaiyaraaja,37388,908467,"11, 12, india, Indian, tamil",https://www.last.fm/music/Ilaiyaraaja,True
+莫文蔚,58851,1568732,"chinese, pop, Hong Kong, C-pop, female vocalists",https://www.last.fm/music/%E8%8E%AB%E6%96%87%E8%94%9A,True
+Skylar Grey,642934,8048629,"pop, alternative, female vocalists, alternative rock, Holly Brook",https://www.last.fm/music/Skylar+Grey,True
+The Yellow Diary,25963,577646,"Indian, Hindi, india, Punjabi, experimental alternative rock",https://www.last.fm/music/The+Yellow+Diary,True
+Nine Inch Nails,3611571,319905088,"industrial, industrial rock, electronic, alternative, rock",https://www.last.fm/music/Nine+Inch+Nails,True
