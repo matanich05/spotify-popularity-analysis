@@ -78,7 +78,7 @@ Glavni namen projekta je ugotoviti:
 Najprej namesti potrebne knjižnice:
 
 ```bash
-pip install pandas matplotlib requests beautifulsoup4
+pip install -r requirements.txt
 ```
 
 Nato v terminalu poženi programe v tem vrstnem redu:
